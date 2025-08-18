@@ -36,7 +36,7 @@ We have a **Discord server** where you can:
 ---
 
 ## ⚡ How to Use CWRTM Script
-1. Open the file `loadingstring.lua`
+1. Open the file [`loadingstring.lua`](https://github.com/KonyUnlocked/cwrtm/blob/main/loadstring.lua)
 2. Copy the code inside
 3. Paste it into your **Roblox executor**
 
