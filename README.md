@@ -31,7 +31,8 @@ We have a **Discord server** where you can:
 ## 👨‍💻 Developers
 - **KonyUnlocked**
 - **1zrw**
-- [You could be the 3rd or 4th dev — join the Discord to apply!]
+- **votex**
+- **cath**
 
 ---
 
